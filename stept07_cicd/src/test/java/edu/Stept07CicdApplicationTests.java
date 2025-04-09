@@ -12,7 +12,7 @@ class Stept07CicdApplicationTests {
 	public void testAddition() {
 		int result = 12 + 3;
 		System.out.println("비교전 ------");
-		assertEquals(15, result);
+		assertEquals(14, result);
 		System.out.println("비교후 ------");
 	}
 
